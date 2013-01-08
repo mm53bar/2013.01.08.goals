@@ -36,6 +36,7 @@
 
 ### Dr. Gail Matthews
 ### Dominican University
+### "Summary of Recent Goals Research"
 
 Study of 267 participants
 
@@ -122,3 +123,44 @@ When do you need to do it?
 # Hopper
 
 }}} images/hopper.png
+
+!SLIDE
+
+## 1. Write them down
+
+!SLIDE
+
+}}} images/hopper-new_goal.png
+
+!SLIDE
+
+## 2. Plan them with timelines
+
+!SLIDE
+
+}}} images/hopper-new_result.png
+
+!SLIDE
+
+}}} images/hopper-new_activity.png
+
+!SLIDE
+
+## 3. Share them
+
+
+!SLIDE
+
+}}} images/hopper-new_contributor.png
+
+!SLIDE
+
+## 4. Review them
+
+!SLIDE
+
+}}} images/hopper-notes.png
+
+!SLIDE
+
+## Questions?

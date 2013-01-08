@@ -106,6 +106,16 @@ body {
       box-pack: start; }
       .keydown.deck-container .slide.full-background.hopper {
         background-image: url(../images/hopper.png); }
+      .keydown.deck-container .slide.full-background.hopper-new_goal {
+        background-image: url(../images/hopper-new_goal.png); }
+      .keydown.deck-container .slide.full-background.hopper-new_result {
+        background-image: url(../images/hopper-new_result.png); }
+      .keydown.deck-container .slide.full-background.hopper-new_activity {
+        background-image: url(../images/hopper-new_activity.png); }
+      .keydown.deck-container .slide.full-background.hopper-new_contributor {
+        background-image: url(../images/hopper-new_contributor.png); }
+      .keydown.deck-container .slide.full-background.hopper-notes {
+        background-image: url(../images/hopper-notes.png); }
       .keydown.deck-container .slide.full-background h1 {
         display: inline;
         position: absolute;
