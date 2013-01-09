@@ -104,6 +104,14 @@ body {
       -moz-box-pack: start;
       -ms-box-pack: start;
       box-pack: start; }
+      .keydown.deck-container .slide.full-background.assignment-dog {
+        background-image: url(../images/assignment-dog.jpg); }
+      .keydown.deck-container .slide.full-background.RJ {
+        background-image: url(../images/RJ.jpg); }
+      .keydown.deck-container .slide.full-background.RJ {
+        background-image: url(../images/RJ.jpg); }
+      .keydown.deck-container .slide.full-background.assignment-dog {
+        background-image: url(../images/assignment-dog.jpg); }
       .keydown.deck-container .slide.full-background.hopper {
         background-image: url(../images/hopper.png); }
       .keydown.deck-container .slide.full-background.hopper-new_goal {
@@ -116,6 +124,8 @@ body {
         background-image: url(../images/hopper-new_contributor.png); }
       .keydown.deck-container .slide.full-background.hopper-notes {
         background-image: url(../images/hopper-notes.png); }
+      .keydown.deck-container .slide.full-background.sam-sara {
+        background-image: url(../images/sam-sara.jpg); }
       .keydown.deck-container .slide.full-background h1 {
         display: inline;
         position: absolute;
