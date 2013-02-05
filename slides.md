@@ -98,17 +98,13 @@ Study of 267 participants
 
 !SLIDE
 
-## Big question:
-### How many goals do you want to accomplish?
+### You want to accomplish all of your goals, right?
 
 !SLIDE
 
-## Big question:
-### How many goals does *your boss* want you to accomplish?
+### Just thinking about goals isn't enough.
 
-!SLIDE
-
-### You want to accomplish all of your goals
+### You need to do more.
 
 !SLIDE
 
@@ -132,13 +128,23 @@ review them
 
 !SLIDE
 
-# What are Performance Goals?
+### What are Goals?
 
-short-term objectives set for specific work in the employee's current position
+short-term objectives
 
-relate to the department's overall goals
+that include clearly defined expectations for success
 
-include clearly defined expectations for success
+!SLIDE
+
+### What are Performance Goals?
+
+short-term objectives
+
+**in the employee's current position**
+
+**that relate to the department's overall goals**
+
+and include clearly defined expectations for success
 
 !SLIDE
 
@@ -150,7 +156,9 @@ Most companies use performance goals but most screw them up.
 
 # The Problem, Part 2
 
-Performance goals are how you grow your careeer. You can't afford to have them screwed up.
+Performance goals are how you grow your careeer.
+
+You can't afford to have them screwed up.
 
 !SLIDE bottom-left
 
@@ -178,7 +186,7 @@ They'll get gamed
 
 !SLIDE
 
-# So what should you do?
+# Let's finish your goal
 
 !SLIDE
 
