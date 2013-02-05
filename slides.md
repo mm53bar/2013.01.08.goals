@@ -2,7 +2,7 @@
 
 !SLIDE
 
-# Setting Goals
+# Setting Performance Goals
 
 !SLIDE
 
@@ -30,27 +30,9 @@
 
 !SLIDE
 
-# The Disclaimer
-
-I don't believe in goals.  At least in the way they're implemented in most companies.
-
-!SLIDE
-
-# The Problem
-
-But I believe that having goals are essential to grow.
-
-!SLIDE
-
 # The Hope
 
 You'll see that creating effective goals is easy but requires discipline. And a buddy.
-
-!SLIDE
-
-I've implemented goals, personal performance objectives, annual plans, career objectives and now Part B's in multiple companies and reviewed the goals of more than 100 devs.
-
-What we've built on the dev team at AMA is the best system I've ever had.
 
 !SLIDE bottom-left
 
@@ -65,6 +47,12 @@ What we've built on the dev team at AMA is the best system I've ever had.
 !SLIDE
 
 # Wanna share your goal?
+
+!SLIDE  bottom-left
+
+# Time for a study!
+
+}}} images/puppy_study.jpg
 
 !SLIDE
 
@@ -104,7 +92,9 @@ Study of 267 participants
 
 !SLIDE
 
-# So how do you track your goals?
+# How do you track your goals?
+
+### Are you set up for success?
 
 !SLIDE
 
@@ -118,8 +108,11 @@ Study of 267 participants
 
 !SLIDE
 
-## Easy answer:
-### As many as possible
+### You want to accomplish all of your goals
+
+!SLIDE
+
+## Set yourself up for success!!
 
 !SLIDE
 
@@ -133,6 +126,32 @@ share them
 
 review them
 
+!SLIDE
+
+# Goals vs. Performance Goals
+
+!SLIDE
+
+# What are Performance Goals?
+
+short-term objectives set for specific work in the employee's current position
+
+relate to the department's overall goals
+
+include clearly defined expectations for success
+
+!SLIDE
+
+# The Problem, Part 1
+
+Most companies use performance goals but most screw them up.
+
+!SLIDE
+
+# The Problem, Part 2
+
+Performance goals are how you grow your careeer. You can't afford to have them screwed up.
+
 !SLIDE bottom-left
 
 # Pro Tip #1
@@ -143,9 +162,9 @@ review them
 
 ## Don't assign goals
 
-Goals only work if they're selected by the individual
+Goals only work if the individual has input
 
-!SLIDE bottom-right
+!SLIDE bottom-left
 
 # Pro Tip #2
 
@@ -163,7 +182,21 @@ They'll get gamed
 
 !SLIDE
 
+## Keys to effective goals
+
+write them down
+
+plan them with timelines
+
+share them
+
+review them
+
+!SLIDE
+
 ## 1. Write them down
+
+(you already did that earlier)
 
 !SLIDE
 
@@ -185,22 +218,25 @@ When do you need to do it?
 
 !SLIDE
 
-# Wanna share your goal?
+## What's your timeline?
+
+### Volunteers?
 
 !SLIDE
 
 ## 3. Share them
 
 #### Meet with your boss at the beginning of the year
+
 !SLIDE
 
 ## 4. Review them
 
-#### Weekly 1:1
+#### Weekly 1:1 with your boss
 
 !SLIDE
 
-### This is a pain!
+### Tracking this is a pain!
 #### Isn't there an app for this?
 
 !SLIDE bottom-left
